@@ -153,7 +153,7 @@ The chatbot was tested on a variety of general and sensitive health-related quer
   
 ---
 
-![Sample Output2](images/sample_output2.png)
+![Sample Output1](images/sample_output1.png)
 
 ---
 
@@ -209,7 +209,7 @@ To address the observed issues, the following improvements were introduced:
 
 However, core model limitations still remain.
 
-![Sample Output1](images/sample_output1.png)
+![Sample Output2](images/sample_output2.png)
 
 ---
 
