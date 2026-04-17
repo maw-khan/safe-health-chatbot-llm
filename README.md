@@ -1,10 +1,12 @@
 # Safe Health Chatbot using LLMs
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![NLP](https://img.shields.io/badge/NLP-LLM-orange)
-![Framework](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![Framework](https://img.shields.io/badge/HuggingFace-Transformers-purple)
 ![Model](https://img.shields.io/badge/Model-FLAN--T5-green)
 ![Project](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Safety-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 A safety-aware health query chatbot built using **Large Language Models (LLMs)**, prompt engineering, and controlled response generation.
 
