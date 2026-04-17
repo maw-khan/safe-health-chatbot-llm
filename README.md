@@ -153,6 +153,10 @@ The chatbot was tested on a variety of general and sensitive health-related quer
   
 ---
 
+![Sample Output2](images/sample_output2.png)
+
+---
+
 ## 🧠 Failure Analysis
 
 During testing, several limitations were observed:
@@ -205,7 +209,7 @@ To address the observed issues, the following improvements were introduced:
 
 However, core model limitations still remain.
 
-![Sample Output](images/sample_output.png)
+![Sample Output1](images/sample_output1.png)
 
 ---
 
