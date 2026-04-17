@@ -205,7 +205,7 @@ To address the observed issues, the following improvements were introduced:
 
 However, core model limitations still remain.
 
-![Sample Output](images/sample_outputs.png)
+![Sample Output](images/sample_output.png)
 
 ---
 
