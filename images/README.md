@@ -1,1 +1,1 @@
-![Sample Output](sample_outputs.png)
+![Sample Output](sample_output.png)
