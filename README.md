@@ -63,6 +63,7 @@ It demonstrates:
 ## 🏗️ System Architecture
 
 The chatbot system is designed with multiple layers to ensure safe and controlled behavior:
+
 User Query
    ↓
 Input Safety Filter
